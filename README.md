@@ -235,6 +235,8 @@
   - [Regression Fuzzing for Deep Learning Systems](https://ieeexplore.ieee.org/document/10172506/)
   - [Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction](#large-language-models-are-few-shot-testers-exploring-llm-based-general-bug-reproduction-icse-2023)
   - [Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs](#validating-smt-solvers-via-skeleton-enumeration-empowered-by-historical-bug-triggering-inputs-icse-2023)
+  - Reachable Coverage: Estimating Saturation in Fuzzing
+  - Coverage Guided Fault Injection for Cloud Systems
 - **NDSS 2023**
   - [Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software](#assessing-the-impact-of-interface-vulnerabilities-in-compartmentalized-software-ndss-2023)
   - [FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities](#fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities-ndss-2023)
