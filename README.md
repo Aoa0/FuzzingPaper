@@ -638,10 +638,12 @@
 - **ICSE 2019**
   - [DifFuzz: Differential Fuzzing for Side-Channel Analysis](#diffuzz-differential-fuzzing-for-side-channel-analysis-icse-2019)
   - [Deep Differential Testing of JVM Implementations](#deep-differential-testing-of-jvm-implementations-icse-2019)
-  - [REST-ler: Stateful REST API Fuzzing](#rest-ler-stateful-rest-api-fuzzing-icse-2019)
+  - [RESTler: Stateful REST API Fuzzing](#rest-ler-stateful-rest-api-fuzzing-icse-2019)
   - [SLF: Fuzzing without Valid Seed Inputs](#slf-fuzzing-without-valid-seed-inputs-icse-2019)
   - [Superion: Grammar-Aware Greybox Fuzzing](#superion-grammar-aware-greybox-fuzzing-icse-2019)
   - [Hunting for bugs in code coverage tools via randomized differential testing](#hunting-for-bugs-in-code-coverage-tools-via-randomized-differential-testing-icse-2019)
+  - [Grey-Box Concolic Testing on Binary Code](https://ieeexplore.ieee.org/document/8811950)
+  - [LEOPARD: Identifying Vulnerable Code for Vulnerability Assessment Through Program Metrics](https://ieeexplore.ieee.org/document/8812029)
 - **ESEC/FSE 2019**
   - [Cerebro: Context-aware Adaptive Fuzzing for Effective Vulnerability Detection](#cerebro-context-aware-adaptive-fuzzing-for-effective-vulnerability-detection-fse-2019)
   - [Just Fuzz It: Solving Floating-Point Constraints Using Coverage-guided Fuzzing](#just-fuzz-it-solving-floating-point-constraints-using-coverage-guided-fuzzing-fse-2019)
