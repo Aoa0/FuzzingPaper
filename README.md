@@ -53,7 +53,6 @@
   - [FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation](https://dl.acm.org/doi/10.1145/3650212.3680348)
   - [Logos: Log Guided Fuzzing for Protocol Implementations](https://dl.acm.org/doi/10.1145/3650212.3680394)
   - [Policy Testing with MDPFuzz (Replicability Study)](https://dl.acm.org/doi/10.1145/3650212.3680382)
-  - [Enhancing ROS System Fuzzing through Callback Tracing](https://dl.acm.org/doi/10.1145/3650212.3652111)
   - [Sleuth: A Switchable Dual-Mode Fuzzer to Investigate Bug Impacts Following a Single PoC](https://dl.acm.org/doi/10.1145/3650212.3680316)
 - **ESEC/FSE 2024**
   - [BRF: Fuzzing the eBPF runtime](https://dl.acm.org/doi/abs/10.1145/3643778)
@@ -271,7 +270,7 @@
   - [So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)StackVirt](https://dl.acm.org/doi/10.1145/3551349.3556946)
   - [Auto Off-Target: Enabling Thorough and Scalable Testing for Complex Software Systems](#auto-off-target:-enabling-thorough-and-scalable-testing-for-complex-software-systems-ase-2022)
 - **ISSTA 2022**
-  - [sAlmost Correct Invariants: Synthesizing Inductive Invariants by Fuzzing Proof](#almost-correct-invariants-synthesizing-inductive-invariants-by-fuzzing-proofs-issta-2022)
+  - [Almost Correct Invariants: Synthesizing Inductive Invariants by Fuzzing Proof](#almost-correct-invariants-synthesizing-inductive-invariants-by-fuzzing-proofs-issta-2022)
   - [DocTer: Documentation-Guided Fuzzing for Testing Deep Learning API Functions](#Docter-documentation-guided-fuzzing-for-testing-deep-learning-api-functions-issta-2022)
   - [Efficient Greybox Fuzzing of Applications in Linux-based IoT Devices via Enhanced User-mode Emulation](#efficient-greybox-fuzzing-of-applications-in-linux-based-iot-devices-via-enhanced-user-mode-emulation-issta-2022)
   - [MDPFuzz: Testing Models Solving Markov Decision Processes](#mdpfuzz-testing-models-solving-markov-decision-processes-issta-2022)
