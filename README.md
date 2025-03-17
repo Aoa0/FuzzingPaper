@@ -16,6 +16,13 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
 
 # All Papers (Classification according to Publication)
+- **AsiaCCS 2024**
+  - [Make out like a (Multi-Armed) Bandit: Improving the Odds of Fuzzer Seed Scheduling with T-Scheduler](https://dl.acm.org/doi/10.1145/3634737.3637639)
+  - [SyzRisk: A Change-Pattern-Based Continuous Kernel Regression Fuzzer](https://dl.acm.org/doi/10.1145/3634737.3637642)
+  - [Fuzzing API Error Handling Behaviors using Coverage Guided Fault Injection](https://dl.acm.org/doi/10.1145/3634737.3637650)
+  - [AIMFuzz: Automated Function-Level In-Memory Fuzzing on Binaries](https://dl.acm.org/doi/10.1145/3634737.3644996)
+  - [What All the PHUZZ Is About: A Coverage-guided Fuzzer for Finding Vulnerabilities in PHP Web Applications](https://dl.acm.org/doi/10.1145/3634737.3661137)
+  - [SoK: Where to Fuzz? Assessing Target Selection Methods in Directed Fuzzing](https://dl.acm.org/doi/10.1145/3634737.3661141)
 - **CCS 2024**
   - [LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT](https://dl.acm.org/doi/abs/10.1145/3658644.3670276)
   - [FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache](https://dl.acm.org/doi/abs/10.1145/3658644.3670278)
