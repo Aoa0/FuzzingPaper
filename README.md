@@ -142,6 +142,9 @@
 - **Others 2024**
   - [Crash Report Accumulation During Continuous Fuzzing with CASR (IVMEM 2024)](https://arxiv.org/abs/2405.18174)
   - [CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection](https://www.sciencedirect.com/science/article/pii/S0167642323001582)
+- **AsiaCCS 2023**
+  - [Ember-IO: Effective Firmware Fuzzing with Model-Free Memory Mapped IO](https://dl.acm.org/doi/10.1145/3579856.3582840)
+  - [Arvin: Greybox Fuzzing Using Approximate Dynamic CFG Analysis](https://dl.acm.org/doi/10.1145/3579856.3582813)
 - **MobiSys 2023**
   - [No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware](https://dl.acm.org/doi/10.1145/3581791.3596857)
 - **ESORICS 2023**
