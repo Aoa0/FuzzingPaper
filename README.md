@@ -142,6 +142,8 @@
 - **Others 2024**
   - [Crash Report Accumulation During Continuous Fuzzing with CASR (IVMEM 2024)](https://arxiv.org/abs/2405.18174)
   - [CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection](https://www.sciencedirect.com/science/article/pii/S0167642323001582)
+- **ACSAC 2023**
+  - [Triereme: Speeding up Hybrid Fuzzing through Efficient Query Scheduling](https://dl.acm.org/doi/10.1145/3627106.3627173)
 - **ASIACCS 2023**
   - [Ember-IO: Effective Firmware Fuzzing with Model-Free Memory Mapped IO](https://dl.acm.org/doi/10.1145/3579856.3582840)
   - [Arvin: Greybox Fuzzing Using Approximate Dynamic CFG Analysis](https://dl.acm.org/doi/10.1145/3579856.3582813)
@@ -266,6 +268,12 @@
   - [Evaluating the Fork-Awareness of Coverage-Guided Fuzzers](#evaluating-the-fork-awareness-of-coverage-guided-fuzzers-icissp-2023)
 - **Others 2023**
   - [CIDFuzz: Fuzz testing for continuous integration](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sfw2.12125)
+- **ACSAC 2022**
+  - [Snappy: Efficient Fuzzing with Adaptive and Mutable Snapshots](https://dl.acm.org/doi/10.1145/3564625.3564639)
+  - [One Fuzz Doesn’t Fit All: Optimizing Directed Fuzzing via Target-tailored Program State Restriction](https://dl.acm.org/doi/10.1145/3564625.3564643)
+  - [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://dl.acm.org/doi/10.1145/3564625.3564659)
+  - [Alphuzz: Monte Carlo Search on Seed-Mutation Tree for Coverage-Guided Fuzzing](https://dl.acm.org/doi/10.1145/3564625.3564660)
+  - [StateDiver: Testing Deep Packet Inspection Systems with State-Discrepancy Guidance](https://dl.acm.org/doi/10.1145/3564625.3564650)
 - **Euro S&P 2022**
   - [Fuzzing with Data Dependency Information](https://ieeexplore.ieee.org/document/9797358)
 - **ASIACCS 2022**
@@ -379,6 +387,7 @@
   - [FEFuzzer: Hybrid Files Fuzzing Tool (2022)](#fefuzzer-hybrid-files-fuzzing-tool-2022)
   - [Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle (ISPRAS Open 2022)](#sydr-fuzz-continuous-hybrid-fuzzing-and-dynamic-analysis-for-security-development-lifecycle-ispras-open-2022)
   - [Improving HPC Security with Targeted Syscall Fuzzing (S-HPC 2022)](https://web.eece.maine.edu/~vweaver/projects/perf_events/fuzzer/2022_shpc_fuzzer.pdf)
+- 
 - **Euro S&P 2021**
   - [ConFuzzius: A Data Dependency-Aware Hybrid Fuzzer for Smart Contracts](https://ieeexplore.ieee.org/document/9581164)
 - **ASIACCS 2021**
@@ -615,6 +624,8 @@
   - [Sydr: Cutting Edge Dynamic Symbolic Execution (ISPRAS Open 2020)](#sydr-cutting-edge-dynamic-symbolic-execution-ispras-open-2020)
 - **ACSAC 2019**
   - [Opening Pandoras Box through ATFuzzer: Dynamic Analysis of AT Interface for AndroidSmartphones](#Opening-Pandoras-Box-through-ATFuzzer-Dynamic-Analysis-of-AT-Interface-for-Android-Smartphones-ACSAC-2019)
+  - [SRFuzzer: an automatic fuzzing framework for physical SOHO router devices to discover multi-type vulnerabilities](https://dl.acm.org/doi/10.1145/3359789.3359826)
+  - [FuzzBuilder: Automated building greybox fuzzing environment for C/C++ library](https://dl.acm.org/doi/10.1145/3359789.3359846)
 - **OOPSLA 2019**
   - [FuzzFactory: Domain-Specific Fuzzing with Waypoints](#fuzzfactory-domain-specific-fuzzing-with-waypoints-oopsla-2019)
   - [Compiler Fuzzing: How Much Does It Matter](#compiler-fuzzing-how-much-does-it-matter-oopsla2019)
