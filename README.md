@@ -266,6 +266,8 @@
   - [Evaluating the Fork-Awareness of Coverage-Guided Fuzzers](#evaluating-the-fork-awareness-of-coverage-guided-fuzzers-icissp-2023)
 - **Others 2023**
   - [CIDFuzz: Fuzz testing for continuous integration](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sfw2.12125)
+- **Euro S&P 2022**
+  - [Fuzzing with Data Dependency Information](https://ieeexplore.ieee.org/document/9797358)
 - **ASIACCS 2022**
   - [TargetFuzz: Using DARTs to Guide Directed Greybox Fuzzers](https://dl.acm.org/doi/10.1145/3488932.3501276)
   - [ReFuzz — Structure Aware Fuzzing of the Resilient File System (ReFS)](https://dl.acm.org/doi/10.1145/3488932.3523260)
@@ -377,6 +379,8 @@
   - [FEFuzzer: Hybrid Files Fuzzing Tool (2022)](#fefuzzer-hybrid-files-fuzzing-tool-2022)
   - [Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle (ISPRAS Open 2022)](#sydr-fuzz-continuous-hybrid-fuzzing-and-dynamic-analysis-for-security-development-lifecycle-ispras-open-2022)
   - [Improving HPC Security with Targeted Syscall Fuzzing (S-HPC 2022)](https://web.eece.maine.edu/~vweaver/projects/perf_events/fuzzer/2022_shpc_fuzzer.pdf)
+- **Euro S&P 2021**
+  - [ConFuzzius: A Data Dependency-Aware Hybrid Fuzzer for Smart Contracts](https://ieeexplore.ieee.org/document/9581164)
 - **ASIACCS 2021**
   - [Evaluating Synthetic Bugs](https://dl.acm.org/doi/10.1145/3433210.3453096)
 - **ASE 2021**
@@ -510,6 +514,8 @@
   - [Constructing More Complete Control Flow Graphs Utilizing Directed Gray-Box Fuzzing (MDPI 2021)](#constructing-more-complete-control-flow-graphs-utilizing-directed-gray-box-fuzzing-mdpi-2021)
   - [Symbolic Security Predicates: Hunt Program Weaknesses (ISPRAS Open 2021)](#symbolic-security-predicates-hunt-program-weaknesses-ispras-open-2021)
   - [Towards Symbolic Pointers Reasoning in Dynamic Symbolic Execution (IVMEM 2021)](#towards-symbolic-pointers-reasoning-in-dynamic-symbolic-execution-ivmem-2021)
+- **Euro S&P 2020**
+  - [Improving Fuzzing through Controlled Compilation](https://ieeexplore.ieee.org/document/9230360)
 - **CCS 2020**
   - [FREEDOM: Engineering a State-of-the-Art DOM Fuzzer](#freedom-engineering-a-state-of-the-art-dom-fuzzer-ccs-2020)
   - [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback](#squirrel-testing-database-management-systems-with-language-validity-and-coverage-feedback-ccs-2020)
