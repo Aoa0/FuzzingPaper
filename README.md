@@ -16,7 +16,7 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
 
 # All Papers (Classification according to Publication)
-- **AsiaCCS 2024**
+- **ASIACCS 2024**
   - [Make out like a (Multi-Armed) Bandit: Improving the Odds of Fuzzer Seed Scheduling with T-Scheduler](https://dl.acm.org/doi/10.1145/3634737.3637639)
   - [SyzRisk: A Change-Pattern-Based Continuous Kernel Regression Fuzzer](https://dl.acm.org/doi/10.1145/3634737.3637642)
   - [Fuzzing API Error Handling Behaviors using Coverage Guided Fault Injection](https://dl.acm.org/doi/10.1145/3634737.3637650)
@@ -142,7 +142,7 @@
 - **Others 2024**
   - [Crash Report Accumulation During Continuous Fuzzing with CASR (IVMEM 2024)](https://arxiv.org/abs/2405.18174)
   - [CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection](https://www.sciencedirect.com/science/article/pii/S0167642323001582)
-- **AsiaCCS 2023**
+- **ASIACCS 2023**
   - [Ember-IO: Effective Firmware Fuzzing with Model-Free Memory Mapped IO](https://dl.acm.org/doi/10.1145/3579856.3582840)
   - [Arvin: Greybox Fuzzing Using Approximate Dynamic CFG Analysis](https://dl.acm.org/doi/10.1145/3579856.3582813)
 - **MobiSys 2023**
@@ -266,6 +266,9 @@
   - [Evaluating the Fork-Awareness of Coverage-Guided Fuzzers](#evaluating-the-fork-awareness-of-coverage-guided-fuzzers-icissp-2023)
 - **Others 2023**
   - [CIDFuzz: Fuzz testing for continuous integration](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sfw2.12125)
+- **ASIACCS 2022**
+  - [TargetFuzz: Using DARTs to Guide Directed Greybox Fuzzers](https://dl.acm.org/doi/10.1145/3488932.3501276)
+  - [ReFuzz — Structure Aware Fuzzing of the Resilient File System (ReFS)](https://dl.acm.org/doi/10.1145/3488932.3523260)
 - **OOPSLA 2022**
   - [Satisfiability Modulo Fuzzing: A Synergistic Combination of SMT Solving and Fuzzing](https://dl.acm.org/doi/10.1145/3563332)
 - **ASE 2022**
@@ -374,6 +377,8 @@
   - [FEFuzzer: Hybrid Files Fuzzing Tool (2022)](#fefuzzer-hybrid-files-fuzzing-tool-2022)
   - [Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle (ISPRAS Open 2022)](#sydr-fuzz-continuous-hybrid-fuzzing-and-dynamic-analysis-for-security-development-lifecycle-ispras-open-2022)
   - [Improving HPC Security with Targeted Syscall Fuzzing (S-HPC 2022)](https://web.eece.maine.edu/~vweaver/projects/perf_events/fuzzer/2022_shpc_fuzzer.pdf)
+- **ASIACCS 2021**
+  - [Evaluating Synthetic Bugs](https://dl.acm.org/doi/10.1145/3433210.3453096)
 - **ASE 2021**
   - [CorbFuzz: Checking Browser Security Policies with Fuzzing](#corbfuzz-checking-browser-security-policies-with-fuzzing-ase-2021)
   - [Scalable Fuzzing of Program Binaries with E9AFL](#scalable-fuzzing-of-program-binaries-with-e9afl-ase-2021)
