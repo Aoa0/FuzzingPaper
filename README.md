@@ -16,6 +16,8 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
 
 # All Papers (Classification according to Publication)
+- **Other 2025**
+  - [BaSFuzz: Fuzz testing based on difference analysis for seed bytes](https://doi.org/10.1016/j.jss.2025.112340)
 - **CCS 2024**
   - [LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT](https://dl.acm.org/doi/abs/10.1145/3658644.3670276)
   - [FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache](https://dl.acm.org/doi/abs/10.1145/3658644.3670278)
