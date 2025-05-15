@@ -23,6 +23,8 @@
   - [AIMFuzz: Automated Function-Level In-Memory Fuzzing on Binaries](https://dl.acm.org/doi/10.1145/3634737.3644996)
   - [What All the PHUZZ Is About: A Coverage-guided Fuzzer for Finding Vulnerabilities in PHP Web Applications](https://dl.acm.org/doi/10.1145/3634737.3661137)
   - [SoK: Where to Fuzz? Assessing Target Selection Methods in Directed Fuzzing](https://dl.acm.org/doi/10.1145/3634737.3661141)
+- **Other 2025**
+  - [BaSFuzz: Fuzz testing based on difference analysis for seed bytes](https://doi.org/10.1016/j.jss.2025.112340)
 - **CCS 2024**
   - [LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT](https://dl.acm.org/doi/abs/10.1145/3658644.3670276)
   - [FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache](https://dl.acm.org/doi/abs/10.1145/3658644.3670278)
@@ -246,8 +248,9 @@
   - [Regression Fuzzing for Deep Learning Systems](https://ieeexplore.ieee.org/document/10172506/)
   - [Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction](#large-language-models-are-few-shot-testers-exploring-llm-based-general-bug-reproduction-icse-2023)
   - [Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs](#validating-smt-solvers-via-skeleton-enumeration-empowered-by-historical-bug-triggering-inputs-icse-2023)
-  - Reachable Coverage: Estimating Saturation in Fuzzing
-  - Coverage Guided Fault Injection for Cloud Systems
+  - [Reachable Coverage: Estimating Saturation in Fuzzing]
+  - [Coverage Guided Fault Injection for Cloud Systems]
+  - [Testing Database Engines via Query Plan Guidance](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00174)
 - **NDSS 2023**
   - [Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software](#assessing-the-impact-of-interface-vulnerabilities-in-compartmentalized-software-ndss-2023)
   - [FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities](#fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities-ndss-2023)
