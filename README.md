@@ -61,6 +61,9 @@
   - [Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler](https://dl.acm.org/doi/abs/10.1145/3663529.3663864)
   - [Dodrio: Parallelizing Taint Analysis Based Fuzzing via Redundancy-Free Scheduling](https://dl.acm.org/doi/abs/10.1145/3663529.3663844)
   - [When Fuzzing Meets LLMs: Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3663529.3663784)
+- **ASE 2024**
+  - [Differential Fuzzing for Data Distribution Service Programs with Dynamic Configuration](https://dl.acm.org/doi/10.1145/3691620.3695073)
+  - [Magneto: A Step-Wise Approach to Exploit Vulnerabilities in Dependent Libraries via LLM-Empowered Directed Fuzzing](https://dl.acm.org/doi/10.1145/3691620.3695531)
 - **SP 2024**
   - [Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a142/1Ub23ZRRhRu)
   - [LABRADOR: Response Guided Directed Fuzzing for Black-box IoT Devices](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a127/1Ub23HQTJ1C)
